@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TentsAndTrees" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="tentsandtrees.main.TentsAndTrees" />
+    <module name="TentsAndTrees" />
+    <option name="PROGRAM_PARAMETERS" value="tents7.txt false" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

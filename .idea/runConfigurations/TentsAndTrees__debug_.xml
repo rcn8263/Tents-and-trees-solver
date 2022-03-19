@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TentsAndTrees (debug)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="tentsandtrees.main.TentsAndTrees" />
+    <module name="TentsAndTrees" />
+    <option name="PROGRAM_PARAMETERS" value="tents1.txt true" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="tentsandtrees.main.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
